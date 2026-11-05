@@ -1,0 +1,8 @@
+<aegis>
+	<request policy="add">
+		<!-- QCamera (QR code scanner), as in MeeScan -->
+		<credential name="GRP::video" />
+		<credential name="GRP::pulse-access" />
+		<for path="/opt/authmee-n9/bin/authmee" />
+	</request>
+</aegis>
