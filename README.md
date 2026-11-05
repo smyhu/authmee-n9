@@ -2,6 +2,8 @@
 
 Two-step verification codes (TOTP, RFC 6238) for the Nokia N9 with MeeGo Harmattan PR1.3.
 
+![AuthMee on the Nokia N9: PIN, list of services, adding a service, QR scanner, new service](art/screenshots.png)
+
 - Scan the QR code shown by a website with the built-in scanner (camera + ZBar), paste an
   `otpauth://` link, or type the key by hand. Google Authenticator exports
   (`otpauth-migration://`) add all their accounts at once.
